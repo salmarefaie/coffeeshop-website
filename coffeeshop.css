@@ -1,0 +1,195 @@
+body{
+	font-family: "Roboto",sans-serif;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+/* header*/
+.header{
+	height: auto;
+}
+.row1{
+	padding: 1%;
+	position: relative;
+}
+
+.link{
+	color: #f0b851;
+	margin-left: 60%;
+}
+.link:hover{
+	color: #f0b851;
+}
+
+.learn{
+	display: inline-block;
+	margin-left: 20%;
+}
+.learn:focus{
+	border-color: white;
+	text-shadow: none;
+	box-shadow: 0 0 0  #918a8a;
+    outline-width: 0px;
+}
+
+.btn-warning{
+	display: inline;
+}
+
+/* background*/
+.img{
+    width: 100%;
+	height: auto;
+
+}
+
+.background{
+	position: relative;
+}
+
+.p1{
+  position: absolute;
+  top: 20%;
+  left: 3%;
+  color: #e69a0d;
+  font-size: 4vw;
+  font-family: monospace;
+  font-weight:bolder;
+
+}
+
+.p2{
+  position: absolute;
+  top: 32%;
+  left: 3%;
+  color: #e69a0d;
+  font-size: 4vw;
+  font-family: monospace;
+  font-weight:bolder;
+  padding-left: 60px;
+	
+}
+
+/* own cofee*/
+
+.square{
+	margin-top: 30%;
+	margin-bottom: -28%;
+	margin-left: 72%;
+	width: 8vw;
+	height: 12vw;
+	background-color: orange;
+
+}
+
+.circle{
+	margin-left: 3%;
+    margin-top: -10%;
+	width: 8vw;
+	height: 8vw;
+	border-radius: 50%;
+	background-color: #f0b851;
+
+}
+.text{
+	font-size: 2vw;
+	font-weight: bolder;
+
+}
+.right{
+	margin-top: 35%;
+}
+.f_line{
+	text-align: center;
+	height: 0.2vw;
+	width: 5vw;
+	background-color: orange;
+	margin-bottom: 3%;
+	margin-left: 35%;
+	font-weight: bolder;
+}
+.S_line{
+	text-align: center;
+	height: 0.3vw;
+	width: 18vw;
+	background-color: orange;
+	margin-left: 35%;
+	font-weight: bolder;
+}
+
+.img1{
+	text-align: center;
+	z-index: 1;
+
+}
+
+
+.products{
+	margin-top: 10%;
+}
+.advice{
+	color: #51d4ed;
+}
+.coffee{
+	font-weight: 800;
+}
+
+.products_img{
+	margin-top: 8%;
+	
+}
+
+.style{
+	color: #164eba;
+	text-shadow: 1px 1px 2px #164eba;
+	margin-left: 10%;
+}
+.star{
+	margin-left: 9%;
+	margin-bottom: 5%;
+	color: #f5f52e;
+	text-shadow:1px 1px 5px #bdc2c7;
+}
+.imagee{
+	margin-bottom: 5%;
+	margin-left: 5%;
+}
+.rate{
+	display: inline;
+}
+.reviews{
+	color: #d4d7db;
+	text-shadow:1px 1px 2px #bdc2c7;
+}
+h6{
+	margin-bottom: 20%;
+}
+
+.join_text{
+	font-family: monospace;
+	font-weight:bold;
+}
+
+.field{
+	margin-left: 20%;
+	display: inline-block;
+	
+}
+.field:focus{
+	border-color: white;
+	text-shadow: none;
+	box-shadow: 0 0 0  #918a8a;
+    outline-width: 0px;
+}
+.btn-warning{
+	margin-right: 70%;
+	color: white;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	display: inline-block;
+}
+.btn-warning:hover{
+	color: white;
+	
+}
